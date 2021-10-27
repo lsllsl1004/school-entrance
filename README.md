@@ -1,1 +1,1 @@
-# school-entrance
+# schoolEntrance
